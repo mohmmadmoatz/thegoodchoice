@@ -316,7 +316,7 @@ p {
  * Flexslider
  */
 #fh5co-home {
-  min-height: 700px;
+  min-height: 500px;
   background: #fff url(../images/loader.gif) no-repeat center center;
 }
 #fh5co-home .flexslider {
@@ -787,12 +787,13 @@ p {
   color: #41454f;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
-  opacity: 0.4;
+  /* opacity: 0.4; */
   margin-bottom: 20px;
 }
 
 .fh5co-lead {
   font-size: 26px;
+  color: #fff;
 }
 @media screen and (max-width: 768px) {
   .fh5co-lead {
